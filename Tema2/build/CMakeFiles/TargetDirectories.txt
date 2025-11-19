@@ -1,0 +1,3 @@
+/mnt/d/Visual Studio Code/Facultate/PAOO/Tema2/build/CMakeFiles/Filme.dir
+/mnt/d/Visual Studio Code/Facultate/PAOO/Tema2/build/CMakeFiles/edit_cache.dir
+/mnt/d/Visual Studio Code/Facultate/PAOO/Tema2/build/CMakeFiles/rebuild_cache.dir
